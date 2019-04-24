@@ -1,0 +1,6 @@
+TUTORIAL
+
+https://www.youtube.com/watch?v=-xmFW0Vuvsk
+
+php artisan serve
+se habre mediante localhost:8000
