@@ -12,5 +12,8 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('index');
 });
+/*Routes::get("/views/modulos", function()){
+	return view('body');
+}*/
